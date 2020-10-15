@@ -1,0 +1,110 @@
+Amber wine
+Aromatized wine
+Dessert wine
+Fortified wine
+Fruit wine
+Ice wine
+Mead
+Red wine
+Sparkling wine
+Straw wine
+Table wine
+White wine
+Chardonnay
+Chenin blanc
+Muscat
+Riesling
+Sauvignon blanc
+Cabernet Franc
+Cabernet Sauvignon
+Merlot
+Pinot noir
+Shiraz
+Albariño
+Arneis
+Assyrtiko
+Auxerrois
+Colombard
+Falanghina
+Furmint
+Friulano
+Garganega
+Glera
+Godello
+Greco
+Inzolia
+Kerner
+Loureiro
+Malvasia
+Marsanne
+Moschofilero
+Palomino
+Pecorino
+Pinot blanc
+Pinot grigio
+Piquepoul
+Viura
+Rhoditis
+Ribolla Gialla
+Rondinella
+Roussanne
+Scheurebe
+Silvaner
+Treixadura
+Trebbiano
+Verdejo
+Verdicchio
+Vermentino
+Viognier
+Welschriesling
+Agiorgitiko
+Aglianico
+Baco noir
+Barbera
+Blauburger
+Bobal
+Brachetto
+Carignan
+Carmenère
+Cesanese Comune
+Chambourcin
+Chasselas
+Cinsaut
+Corvina
+Dolcetto
+Bonarda
+Frappato
+Gamay
+Garnacha
+Gaglioppo
+Graciano
+Gros Manseng
+Lagrein
+Lambrusco
+Malbec
+Mencía
+Montepulciano
+Mataro
+Nebbiolo
+Negroamaro
+Nero d'Avola
+Nerello
+Durif
+Petit verdot
+Pinot Meunier
+Pinotage
+Poulsard
+Sagrantino
+Sangiovese
+Schiava
+St. Laurent
+Tannat
+Tempranillo
+Tibouren
+Touriga Nacional
+Trepat
+Trousseau
+Uhudler
+Xinomavro
+Primitivo
+Zweigelt
